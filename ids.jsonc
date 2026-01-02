@@ -787,13 +787,17 @@
     },
     {
         "id": 254,
-        "name": "BIZ UDGothic (森泽UD黑体)",
-        "alias": []
+        "name": "森泽 BIZ UD 黑体",
+        "alias": [
+            "Morisawa BIZ UDGothic"
+        ]
     },
     {
         "id": 255,
-        "name": "BIZ UDPGothic (森泽UDP黑体)",
-        "alias": []
+        "name": "森泽 BIZ UDP 黑体",
+        "alias": [
+            "Morisawa BIZ UDPGothic"
+        ]
     },
     {
         "id": 256,
@@ -4368,6 +4372,20 @@
         "id": 939,
         "name": "Doto",
         "alias": []
+    },
+    {
+        "id": 940,
+        "name": "森泽 BIZ UD 明朝",
+        "alias": [
+            "Morisawa BIZ UDMincho"
+        ]
+    },
+    {
+        "id": 941,
+        "name": "森泽 BIZ UDP 明朝",
+        "alias": [
+            "Morisawa BIZ UDPMincho"
+        ]
     },
     {
         "id": 96,
